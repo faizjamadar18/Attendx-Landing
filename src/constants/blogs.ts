@@ -1,0 +1,36 @@
+export const BLOGS = [
+    {
+        title: "Instant Enrollment",
+        desc: "Students join courses in seconds using unique QR codes or course links provided by their teachers. No tedious sign-up forms.",
+        image: "/images/blog1.png",
+        category: "Phase 1",
+        author: "Sarah Leeman",
+        authorRole: "Marketing Leader",
+        authorCompany: "Mailchimp",
+        authorCompanyUrl: "https://mailchimp.com",
+        authorImage: "/images/person-one.jpg",
+    },
+    {
+        title: "Biometric Registration",
+        desc: "Students register their FaceID and VoiceID once. Our AI securely stores these biometrics for all future class sessions.",
+        image: "/images/blog2.png",
+        category: "Phase 2",
+        author: "John Doe",
+        authorRole: "Product Manager",
+        authorCompany: "Google",
+        authorCompanyUrl: "https://google.com",
+        authorImage: "/images/person-three.jpg",
+    },
+    {
+        title: "Personal Dashboard",
+        desc: "A unified view for students to track their attendance percentage across all subjects and receive real-time updates.",
+        image: "/images/blog3.png",
+        category: "Phase 3",
+        author: "Emily Johnson",
+        authorRole: "Software Engineer",
+        authorCompany: "Microsoft",
+        authorCompanyUrl: "https://microsoft.com",
+        authorImage: "/images/person-four.jpg",
+    },
+
+];
