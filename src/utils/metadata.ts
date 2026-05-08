@@ -1,19 +1,19 @@
 import { Metadata } from "next";
 
 export const generateMetadata = ({
-    title = `${process.env.NEXT_PUBLIC_APP_NAME} `,
-    description = ``,
+    title = `AttendX `,
+    description = `For Smarter Classrooms`,
     image = "/thumbnail.png",
     icons = [
         {
             rel: "apple-touch-icon",
             sizes: "32x32",
-            url: "/icons/icon.svg"
+            url: "/images/logo2.png"
         },
         {
             rel: "icon",
             sizes: "32x32",
-            url: "/icons/icon.svg"
+            url: "/images/logo2.png"
         },
     ],
     noIndex = false
